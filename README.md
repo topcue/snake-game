@@ -23,7 +23,7 @@
 
 - Entire structure
 
-<img src="/Users/topcue/Library/Application Support/typora-user-images/스크린샷 2021-10-27 오후 3.39.31.png" alt="스크린샷 2021-10-27 오후 3.39.31" style="zoom:80%;" />
+<img width="940" alt="스크린샷 2021-10-27 오후 3 41 22" src="https://user-images.githubusercontent.com/26249582/139013265-ce9b4a52-3a4c-462f-9b51-4da4c244f5e6.png">
 
 ## Demo
 
