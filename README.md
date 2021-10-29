@@ -14,7 +14,7 @@
 
 ## Getting Started
 
-### Depencies
+### Dependencies
 
 - ncurses
 - make
